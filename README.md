@@ -10,7 +10,7 @@
 - **Role**: 프로젝트 리딩 및 백엔드 아키텍처 설계
 - **Architecture**: Domain-Driven Design(DDD), 멀티 모듈 구조 설계
 - **Tech**: Java 21, Spring Boot 3.x, JPA, Redis, Kafka, Docker
-- **Link**: [Goti-server 바로가기](https://github.com/Team-Ikujo/Goti-server)
+
 
 ---
 
