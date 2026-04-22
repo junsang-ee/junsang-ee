@@ -8,7 +8,9 @@
 ### 🚀 핵심 프로젝트: Goti (2025.10 ~Ing)
 **야구 티켓팅 및 리셀 대규모 트래픽 예매 플랫폼**
 - **Role**: 프로젝트 리딩 및 백엔드 아키텍처 설계
-- **Architecture**: Domain-Driven Design(DDD), 멀티 모듈 구조 설계
+- **Architecture**
+  - Local: Domain-Driven Design(DDD), 멀티 모듈 구조 설계
+  - Cloud: MSA
 - **Tech**: Java 21, Spring Boot 3.x, JPA, Redis, Kafka, Docker
 
 
