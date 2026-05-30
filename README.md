@@ -35,7 +35,7 @@
 ---
 
 ### 🎓 Education & Others
-- **KT Cloud TECH UP**: SpringBoot Backend 과정 수강 및 팀원 협업중 (2025.09 ~ 현재)
+- **KT Cloud TECH UP**: SpringBoot Backend 과정 수강 및 팀원 협업중 (2025.09 ~ 2026.04)
 - **KOSTA**: Spring(Java) 활용 웹 개발자 양성 과정 수료
 - **세명대학교**: 졸업
 
